@@ -1,0 +1,13 @@
+[
+
+    {
+        "title": "Earning",
+        "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "July", "Aug", "Sep", "Oct"],
+        "data": [20, 38, 30, 45, 35, 60, 55, 70,60,80],
+        "lineColor": "#8231D3",
+        "period": "10 Months",
+        "total": "8,550",
+        "status": "growth",
+        "statusRate": "25.36"
+    }
+]

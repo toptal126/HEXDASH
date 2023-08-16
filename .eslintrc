@@ -1,0 +1,55 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jest": true
+  },
+  "extends": ["airbnb", "plugin:prettier/recommended", "prettier"],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+    "parser": "@babel/eslint-parser",
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": "latest",
+    "sourceType": "module",
+    "allowImportExportEverywhere": true,
+    "requireConfigFile": false
+  },
+  "plugins": ["react", "import", "react-hooks"],
+  "rules": {
+    "prettier/prettier": "error",
+    "import/no-named-as-default-member": 0,
+    "import/order": [2, { "groups": ["external", "index", "sibling", "parent", "internal", "builtin"] }],
+    "react/jsx-filename-extension": [
+      0,
+      {
+        "extensions": [".js", ".jsx"]
+      }
+    ],
+    "import/prefer-default-export": 0,
+    //"react-hooks/rules-of-hooks": 0,
+    "import/no-extraneous-dependencies": 0,
+    "jsx-a11y/anchor-is-valid": 0,
+    "react/jsx-props-no-spreading": 0,
+    "react/forbid-prop-types": 0,
+    "react/require-default-props": 0,
+    "no-nested-ternary": 0,
+    "global-require": 0,
+    "import/no-dynamic-require": 0,
+    "react/no-array-index-key": 0,
+    "default-param-last": 0,
+    "react/no-unstable-nested-components": 0,
+    "no-param-reassign": 0,
+    "react/jsx-no-useless-fragment": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-no-bind": 0,
+    "radix": 0,
+    "consistent-return": 0,
+    "no-alert": 0,
+    "func-names": 0
+  }
+}

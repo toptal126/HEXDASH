@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "salesCount": "123,456",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "salesCount": "12,498",
+    "status": "In Progress"
+  }
+]

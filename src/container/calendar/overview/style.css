@@ -1,0 +1,31 @@
+.bullet {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 12px;
+}
+html[dir="rtl"] .bullet {
+  margin-left: 12px;
+  margin-right: 0;
+}
+.primary {
+  background: #fb3586;
+  color: #fff;
+}
+.secondary {
+  background: #5840ff;
+  color: #fff;
+}
+.success {
+  background: #01b81a;
+  color: #fff;
+}
+.info {
+  background: #00aaff;
+  color: #fff;
+}
+.warning {
+  background: #fa8b0c;
+  color: #fff;
+}

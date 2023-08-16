@@ -1,0 +1,436 @@
+{
+    "cardOne": [
+        {
+            "id": 1,
+            "title": "Technology Change the World",
+            "content": "Lorem Ipsum is simply dummy text of the printer took a galley of type and scrambled",
+            "img": "static/img/sampleCards/1.png"
+        },
+        {
+            "id": 2,
+            "title": "Power of Unity And Strength",
+            "content": "Lorem Ipsum is simply dummy text of the printer took a galley of type and scrambled",
+            "img": "static/img/sampleCards/9.png"
+        },
+        {
+            "id": 3,
+            "title": "A Success Story Entrepreneur",
+            "content": "Lorem Ipsum is simply dummy text of the printer took a galley of type and scrambled",
+            "img": "static/img/sampleCards/10.png"
+        },
+        {
+            "id": 4,
+            "title": "Important of Team Works",
+            "content": "Lorem Ipsum is simply dummy text of the printer took a galley of type and scrambled",
+            "img": "static/img/sampleCards/11.png"
+        }
+    ],
+    "cardTwo": [
+        {
+            "id": 1,
+            "title": "Creative Planning",
+            "content": "Lorem Ipsum is simply dummy text of the printer took a galley of type and scrambled and typesetting industry.",
+            "img": "static/img/icon/strategy.svg"
+        },
+        {
+            "id": 2,
+            "title": "Perfect Design",
+            "content": "Lorem Ipsum is simply dummy text of the printer took a galley of type and scrambled and typesetting industry.",
+            "img": "static/img/icon/paint.svg"
+        },
+        {
+            "id": 3,
+            "title": "Code Standard",
+            "content": "Lorem Ipsum is simply dummy text of the printer took a galley of type and scrambled and typesetting industry.",
+            "img": "static/img/icon/theme.svg"
+        },
+        {
+            "id": 4,
+            "title": "User Friendly",
+            "content": "Lorem Ipsum is simply dummy text of the printer took a galley of type and scrambled and typesetting industry.",
+            "img": "static/img/icon/protection.svg"
+        }
+    ],
+    "cardThree": [
+        {
+            "id": 1,
+            "title": "Perfect Design",
+            "content": "Lorem Ipsum is simply dummy text of the",
+            "img": "static/img/sampleCards/2.svg"
+        },
+        {
+            "id": 2,
+            "title": "Code Standard",
+            "content": "Lorem Ipsum is simply dummy text of the",
+            "img": "static/img/sampleCards/3.svg"
+        },
+        {
+            "id": 3,
+            "title": "Nice Environment ",
+            "content": "Lorem Ipsum is simply dummy text of the",
+            "img": "static/img/sampleCards/4.svg"
+        },
+        {
+            "id": 4,
+            "title": "User Friendly",
+            "content": "Lorem Ipsum is simply dummy text of the",
+            "img": "static/img/sampleCards/1.svg"
+        }
+    ],
+    "BlogCardData": [
+        {
+            "id": 1,
+            "title": "Multiple Dashboard Design Idea",
+            "content": "There are many variations of passages of majority have suffered alteration in some form",
+            "category": "Web Development",
+            "img": "1.png",
+            "author": "Machel Bold",
+            "authorImg": "1.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "20k"
+        },
+        {
+            "id": 2,
+            "title": "How to Create a Niche Based Dashboard",
+            "content": "There are many variations of passages of majority have suffered alteration in some form",
+            "category": "Web Development",
+            "img": "2.png",
+            "author": "David Warner",
+            "authorImg": "1.png",
+            "postDate": "13 March 2021",
+            "favouriteBy": "25k",
+            "viewedBy": "30k"
+        },
+        {
+            "id": 3,
+            "title": "Tips for Design Simplicity ",
+            "content": "There are many variations of passages of majority have suffered alteration in some form",
+            "category": "Web Development",
+            "img": "3.png",
+            "author": "Jonathon Trout",
+            "authorImg": "1.png",
+            "postDate": "18 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "20k"
+        },
+        {
+            "id": 4,
+            "title": "Multiple Dashboard Design Idea",
+            "content": "There are many variations of passages of majority have suffered alteration in some form",
+            "category": "Web Development",
+            "img": "4.png",
+            "author": "Machel Bold",
+            "authorImg": "1.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "20k"
+        },
+        {
+            "id": 5,
+            "title": "How to Growth Productivity ",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "17.png",
+            "author": "Burns Marks",
+            "authorImg": "1.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 6,
+            "title": "Different Between Dark & Night Mode",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "18.png",
+            "author": "Burns Marks",
+            "authorImg": "1.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 7,
+            "title": "Tips for Design Simplicity ",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "19.png",
+            "author": "Burns Marks",
+            "authorImg": "1.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 8,
+            "title": "Multiple Dashboard Design Idea",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "20.png",
+            "author": "Burns Marks",
+            "authorImg": "1.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 9,
+            "title": "Multiple Dashboard Design Idea",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "1.png",
+            "author": "Burns Marks",
+            "authorImg": "1.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 10,
+            "title": "Learn about Time Management",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "5.png",
+            "author": "Burns Marks",
+            "authorImg": "1.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 11,
+            "title": "How to Protect Global Weather",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "6.png",
+            "author": "Gill Hansen",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 12,
+            "title": "Important of Entertainments",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "7.png",
+            "author": "Mildred Clark",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 13,
+            "title": "How Climate Effect on Weather",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "8.png",
+            "author": "Dawn Bauer",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 14,
+            "title": "productivity is your Asset",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "9.png",
+            "author": "Dawn Bauer",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 15,
+            "title": "How to Use Apples Products",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "10.png",
+            "author": "Dawn Bauer",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 16,
+            "title": "Winter Session Life guide line",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "11.png",
+            "author": "Dawn Bauer",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 17,
+            "title": "Important of Team work",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "12.png",
+            "author": "Dawn Bauer",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 18,
+            "title": "How to get a Good Lawyer",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "13.png",
+            "author": "Dawn Bauer",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 19,
+            "title": "How Climate Effect on Weather",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "14.png",
+            "author": "Dawn Bauer",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 20,
+            "title": "How Climate Effect on Weather",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "14.png",
+            "author": "Dawn Bauer",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 21,
+            "title": "How Climate Effect on Weather",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "15.png",
+            "author": "Dawn Bauer",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        },
+        {
+            "id": 22,
+            "title": "How Climate Effect on Weather",
+            "content": "Lorem Ipsum is simply dummy text of the printing printer took a galley of type and scrambled and typesetting industry.",
+            "category": "Web Development",
+            "img": "16.png",
+            "author": "Dawn Bauer",
+            "authorImg": "3.png",
+            "postDate": "15 March 2021",
+            "favouriteBy": "15k",
+            "viewedBy": "76"
+        }
+    ],
+    "cardFive": [
+        {
+            "id": 1,
+            "title": "Advancer Places",
+            "content": "Lorem Ipsum is simply dummy text of the printing ",
+            "img": "static/img/sampleCards/7.png",
+            "auth": "static/img/chat-author/t1.jpg"
+        },
+        {
+            "id": 2,            
+            "title": "Latest Features of Apples Products",
+            "content": "Lorem Ipsum is simply dummy text of the printing ",
+            "img": "static/img/sampleCards/8.png",
+            "auth": "static/img/chat-author/t2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Best Resort Around the World",
+            "content": "Lorem Ipsum is simply dummy text of the printing ",
+            "img": "static/img/sampleCards/13.png",
+            "auth": "static/img/chat-author/t3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "How to find a Best Lawyers",
+            "content": "Lorem Ipsum is simply dummy text of the printing ",
+            "img": "static/img/sampleCards/2.png",
+            "auth": "static/img/chat-author/t4.jpg"
+        }
+    ],
+    "cardSix": [
+        {
+            "id": 1,
+            "title": "47",
+            "content": "Total tasks",
+            "img": "static/img/icon/1.svg" ,
+            "className": "primary"           
+        },
+        {
+            "id": 2,            
+            "title": "34",
+            "content": "Tasks completed",
+            "img": "static/img/icon/2.svg",
+            "className": "secondary"
+        },
+        {
+            "id": 3,
+            "title": "$27,500",
+            "content": "Spendings",
+            "img": "static/img/icon/4.svg",
+            "className": "success"
+        },
+        {
+            "id": 4,
+            "title": "250",
+            "content": "Hours spent",
+            "img": "static/img/icon/3.svg",
+            "className": "warning"
+        }
+    ],
+    "cardSeven": [
+        {
+            "id": 1,
+            "title": "Adobe CC",
+            "installed": true,
+            "content": "Lorem Ipsum is simply dummy text of the and the",
+            "img": "static/img/icon/adobe.svg"
+        },
+        {
+            "id": 2,            
+            "title": "Slack",
+            "installed": false,
+            "content": "Lorem Ipsum is simply dummy text of the and the",
+            "img": "static/img/icon/Slack.svg"
+        },
+        {
+            "id": 3,
+            "title": "Trello",
+            "installed": true,
+            "content": "Lorem Ipsum is simply dummy text of the and the",
+            "img": "static/img/icon/iconfinder_trello_2317760.svg"
+        },
+        {
+            "id": 4,
+            "title": "Whatspp",
+            "installed": false,
+            "content": "Lorem Ipsum is simply dummy text of the and the",
+            "img": "static/img/icon/flat.svg"
+        }
+    ]
+}

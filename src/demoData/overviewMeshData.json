@@ -1,0 +1,54 @@
+[
+  {
+      "id": 1,
+      "type": "primary",
+      "icon": "money-wave.svg",
+      "label": "Revenue",
+      "total": "70",
+      "suffix": "K",
+      "prefix": "$",
+      "status": "growth",
+      "statusRate": "25.36",
+      "decimel": 0,
+      "dataPeriod": "Since last month"
+  },
+  {
+      "id": 2,
+      "type": "info",
+      "icon": "arrow-growth.svg",
+      "label": "Growth",
+      "total": "28.50",
+      "suffix": "%",
+      "prefix": "",
+      "status": "growth",
+      "statusRate": "28.50",
+      "decimel": 2,
+      "dataPeriod": "Since last month"
+  },
+  {
+      "id": 3,
+      "type": "success",
+      "icon": "shopping-cart.svg",
+      "label": "Orders",
+      "total": "8750",
+      "suffix": "",
+      "prefix": "",
+      "status": "down",
+      "statusRate": "25.36",
+      "decimel": 0,
+      "dataPeriod": "Since last month"
+  },
+  {
+      "id": 4,
+      "type": "warning",
+      "icon": "dollar-circle.svg",
+      "label": "Sales",
+      "total": "40",
+      "suffix": "K",
+      "prefix": "$",
+      "status": "growth",
+      "statusRate": "9.87",
+      "decimel": 0,
+      "dataPeriod": "Since last month"
+  }
+]

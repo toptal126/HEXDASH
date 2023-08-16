@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4,
+    "date": "December 27, 2022",
+    "version":"1.1.2",
+    "new": [
+        "Another 3 demo added"
+    ],
+    "updated": [
+        "Header top icon"
+    ]
+  },
+  {
+    "id": 3,
+    "date": "December 26, 2022",
+    "version":"1.1.1",
+    "new": [
+        "3 new demo added"
+    ],
+    "fixed": [
+        "simple style fix"
+    ]
+  },
+  {
+    "id": 2,
+    "date": "December 25, 2022",
+    "version":"1.1.0",
+    "new": [
+        "3 new demo added"
+    ]
+  },
+  {
+    "id": 1,
+    "date": "December 19, 2022",
+    "version": "1.0.0",
+    "new": ["Initialize Release"]
+  }
+]

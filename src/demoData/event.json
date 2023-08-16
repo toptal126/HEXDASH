@@ -1,0 +1,48 @@
+[
+    
+    {
+        "title": "Family Events",
+        "start": "2017-06-13T12:41:31.046Z",
+        "end": "2017-06-13T12:41:31.046Z",
+        "id": 1,
+        "label": "success",
+        "type": "event",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout"
+    },
+    {
+        "title": "Product Launch",
+        "start": "2017-06-13T12:41:31.046Z",
+        "end": "2017-06-13T12:41:31.046Z",
+        "id": 2,
+        "label": "primary",
+        "type": "reminder",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout"
+    },
+    {
+        "title": "Team Meeting",
+        "id": 3,
+        "start": "2017-06-13T12:41:31.046Z",
+        "end": "2017-06-13T12:41:31.046Z",
+        "label": "secondary",
+        "type": "event",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout"
+    },
+    {
+        "title": "UI/UX Tasks",
+        "id": 4,
+        "start": "2017-06-13T12:41:31.046Z",
+        "end": "2017-06-13T12:41:31.046Z",
+        "label": "info",
+        "type": "event",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout"
+    },
+    {
+        "title": "Project Update",
+        "id": 5,
+        "start": "2017-06-13T12:41:31.046Z",
+        "end": "2017-06-13T12:41:31.046Z",
+        "label": "warning",
+        "type": "event",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "thumbnail": "1.png",
+      "title": "UI/UX Design Masters Course",
+      "author": "David Warner",
+      "authorImg": "chat-auth.png",
+      "price": "250",
+      "lectures": "35",
+      "duration": "15"
+    },
+    {
+        "id": 2,
+        "thumbnail": "2.png",
+        "title": "React Development Course",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    },
+    {
+        "id": 3,
+        "thumbnail": "3.png",
+        "title": "Digital Marketing Course",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    },
+    {
+        "id": 4,
+        "thumbnail": "4.png",
+        "title": "Video Editing Basic Course",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    },
+    {
+        "id": 5,
+        "thumbnail": "5.png",
+        "title": "Basic Graphic Design Course",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    },
+    {
+        "id": 6,
+        "thumbnail": "6.png",
+        "title": "UI/UX Design Masters Course",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    },
+    {
+        "id": 7,
+        "thumbnail": "7.png",
+        "title": "Advance User Experience Design ",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    },
+    {
+        "id": 8,
+        "thumbnail": "4.png",
+        "title": "Video Editing Advance Course",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    },
+    {
+        "id": 9,
+        "thumbnail": "6.png",
+        "title": "UI/UX Design Masters Course",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    },
+    {
+        "id": 10,
+        "thumbnail": "4.png",
+        "title": "Video Editing Advance Course",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    },
+    {
+        "id": 11,
+        "thumbnail": "1.png",
+        "title": "Visual Dashboard Design ",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    },
+    {
+        "id": 12,
+        "thumbnail": "6.png",
+        "title": "UI/UX Design Masters Course",
+        "author": "David Warner",
+        "authorImg": "chat-auth.png",
+        "price": "250",
+        "lectures": "35",
+        "duration": "15"
+    }
+]
+  
